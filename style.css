@@ -1,0 +1,27 @@
+.valami
+{
+    background-color: black;
+    color: white;
+    margin: 10 0 10 0;
+    border: 1px solid white;
+    display: inline-block;
+    height: 50px;
+    text-align: center;
+}
+#hehe
+{
+   color: dodgerblue;
+    background: white;
+}
+.kecske
+{
+    background-color: aqua;
+    color: green;
+    margin: 10 0 10 0;
+    border: 2px solid black;
+    height: auto;
+}
+#sima
+{
+    text-align: center;
+}
